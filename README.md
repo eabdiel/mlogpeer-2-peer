@@ -44,4 +44,4 @@ pyinstaller --clean --noconfirm --name Mlog --onefile -m mlog.main
 - Content is accepted/displayed primarily from authors you choose to follow (spam reduction)
 
 ## License
-MIT (adjust as needed)
+MIT
