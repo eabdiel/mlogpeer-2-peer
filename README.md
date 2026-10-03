@@ -1,5 +1,11 @@
 # Mlog (Alpha)
 
+Local-first peer-to-peer microblogging prototype with signed events, local media storage, and LAN peer discovery.
+
+A project of **[ProgreTech LLC](https://progretech.com)**, owned and maintained by **Ed Rodriguez**. Third-party components and contributions retain their respective ownership and notices.
+
+[Project website](https://progretech.com) · [Report an issue](https://github.com/eabdiel/mlogpeer-2-peer/issues) · [Contribute](CONTRIBUTING.md)
+
 **Mlog** is a local-first, peer-to-peer micro‑publishing Proof‑of‑Concept for the **ProgreTech** portfolio.
 
 - No central server
@@ -45,3 +51,17 @@ pyinstaller --clean --noconfirm --name Mlog --onefile -m mlog.main
 
 ## License
 MIT
+
+## Collaboration
+
+Reproducible bug reports, platform compatibility, installation documentation, and small regression fixes are useful ways to help. Read [CONTRIBUTING.md](CONTRIBUTING.md) for issue reports, proposed changes, and attribution requirements.
+
+## License and reuse
+
+The repository includes MIT terms in [LICENSE](LICENSE). Preserve applicable copyright and license notices. Consult the full license for modification, distribution, and any source-provision requirements.
+
+## More from ProgreTech
+
+Explore [CodeSeal](https://codeseal.progretech.com) for signed software provenance and project history.
+
+Discover the wider portfolio at [progretech.com](https://progretech.com). These links identify related products; they do not imply a bundled integration or shared license.
